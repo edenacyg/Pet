@@ -11,9 +11,9 @@ An application that sets the name of your pet.
 
 • CSS
 
-• ReactJS
+• React JS
 
-• NodeJS
+• Node JS
 
 • Express
 
