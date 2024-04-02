@@ -50,6 +50,10 @@ form {
   text-align: center;
 }
 
+.invalid-feedback {
+  text-align: center;
+}
+
 img {
   width: 90%;
   border-radius: 10px;
